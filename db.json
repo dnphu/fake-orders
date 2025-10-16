@@ -1,29 +1,30 @@
 {
   "orders": [
     {
-      "id": 51283728,
+      "id": 00000001,
       "date":  "2021-01-18",
       "product": "Sukin Purely Ageless Rejuvenating Day Cream 120ml",
-      "total": 138000000,
+      "total": 139000000,
       "status": "Confirmed",
 			"item": [
+		{ "name": "Sukin Purely Ageless Rejuvenating Day Cream 120ml", "price": 1000000, "quantity": 1, "subtotal": 1000000 },		
         { "name": "iPhone 17 Pro Max", "price": 32000000, "quantity": 1, "subtotal": 32000000 },
         { "name": "iPad Air 12", "price": 53000000, "quantity": 2, "subtotal": 106000000 }
       ],
       "recipient": { "name": "SELENA GOMES", "address": "18 An Nhon 3, An Hai Bac, Son Tra, Da Nang", "phone": "+84 905123456" },
       "shipping": { "deliverOn": "2021-01-20", "fee": 0 },
       "payment":  { "method": "Cash On Delivery (COD)" },
-      "summary":  { "subtotal": 138000000, "fee": 0, "total": 138000000 }  
+      "summary":  { "subtotal": 139000000, "fee": 0, "total": 139000000 }  
     },
     {
-      "id": 52285334,
+      "id": 00000002,
       "date":  "2023-18-01",
       "product": "Sukin Purely Ageless Rejuvenating Day Cream 500ml",
       "total": "5573000",
       "status": "In Progess"
     },
     {
-      "id": 53285334,
+      "id": 00000003,
       "date":  "2023-18-01",
       "product": "Sukin Purely Ageless Rejuvenating Day Cream 500ml",
       "total": "5573000",
