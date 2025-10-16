@@ -6,7 +6,7 @@
       "product": "Sukin Purely Ageless Rejuvenating Day Cream 120ml",
       "total": 138000000,
       "status": "Confirmed",
-			"item": [
+			"items": [
         { "name": "iPhone 17 Pro Max", "price": 32000000, "quantity": 1, "subtotal": 32000000 },
         { "name": "iPad Air 12", "price": 53000000, "quantity": 2, "subtotal": 106000000 }
       ],
