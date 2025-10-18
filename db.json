@@ -20,7 +20,7 @@
       "date":  "2021-01-15",
       "product": "Sukin Purely Ageless Rejuvenating Day Cream 120ml",
       "total": 138000000,
-      "status": "Confirmed",
+      "status": "In Progess",
 			"items": [
         { "name": "Sukin Purely Ageless Rejuvenating Day Cream 120ml", "price": 32000000, "quantity": 1, "subtotal": 32000000 },
         { "name": "iPad Air 12", "price": 53000000, "quantity": 2, "subtotal": 106000000 }
@@ -35,7 +35,7 @@
       "date":  "2020-01-28",
       "product": "Sukin Purely Ageless Rejuvenating Day Cream 120ml",
       "total": 138000000,
-      "status": "Confirmed",
+      "status": "Delivered",
 			"items": [
         { "name": "iPhone 17 Pro Max", "price": 32000000, "quantity": 1, "subtotal": 32000000 },
         { "name": "iPad Air 12", "price": 53000000, "quantity": 2, "subtotal": 106000000 }
@@ -50,7 +50,7 @@
       "date":  "2021-01-01",
       "product": "Sukin Purely Ageless Rejuvenating Day Cream 120ml",
       "total": 138000000,
-      "status": "Confirmed",
+      "status": "Delivered",
 			"items": [
         { "name": "iPhone 17 Pro Max", "price": 32000000, "quantity": 1, "subtotal": 32000000 },
         { "name": "iPad Air 12", "price": 53000000, "quantity": 2, "subtotal": 106000000 }
