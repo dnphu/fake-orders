@@ -209,4 +209,4 @@
       "shipping": { "deliverOn": "2021-01-20", "fee": 0 },
       "payment":  { "method": "Cash On Delivery (COD)" },
       "summary":  { "subtotal": 138000000, "fee": 0, "total": 138000000 }  
-    },
+    }
